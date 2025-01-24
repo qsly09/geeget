@@ -1,5 +1,5 @@
 # geeget: Simplify Data Downloads from Google Earth Engine
-geeget is a lightweight and efficient tool for downloading geospatial data from Google Earth Engine (GEE). By automating key steps, geeget minimizes manual setup and ensures data integrity.
+geeget is a lightweight and efficient Python package for downloading geospatial data from Google Earth Engine (GEE). By automating key steps, geeget minimizes manual setup and ensures data integrity.
 
 ### Key Features:
 - Time series data over pixel or specific regions of interest (ROI).
